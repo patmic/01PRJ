@@ -30,9 +30,8 @@ $ git config  user.name
 pat_mic
 
 git init
-
 git status
-
+$ git branch -m main
 
 -----
 ## Comandos de linux
